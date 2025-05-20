@@ -4,7 +4,7 @@ import Footer from './components/Footer'
 import Navbar from './components/Navbar'
 import Recap from './components/Recap'
 import Zone from './components/Zone'
-import Hero from './components/hero'
+import Hero from './components/Hero'
 
 function App() {
   return (
